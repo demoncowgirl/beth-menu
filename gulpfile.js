@@ -16,7 +16,7 @@ gulp.task('copyimages', function(){
 
 gulp.task('copyjs', function(){
   return gulp.src('app/*.js')
-    .pipe(gulp.dest('dist/js/'))
+    .pipe(gulp.dest('dist/'))
   });
 
 // function to change sass code to css

@@ -1,4 +1,3 @@
-// test2
 var foodImages = new Array("../images/beef.jpg", "../images/chicken.jpg", "../images/pork.jpg", "../images/seafood.jpg", "../images/veggie.jpg");
 
 // calls the image randomizer function

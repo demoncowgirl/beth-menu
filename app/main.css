@@ -1,7 +1,5 @@
-/* TEST2 */
-
 body {
-    background: url('images/jockeycropped.png') repeat center;
+    background:url('/images/jockeycropped.png') repeat center;
     height:100%;
 }
 
@@ -134,7 +132,3 @@ li{
   margin-right: 8px;
   padding: 8px;
 }
-
-/* font-family: 'Slabo 27px', serif;
-font-family: 'Lato', sans-serif;
-font-family: 'Abril Fatface', cursive; */
