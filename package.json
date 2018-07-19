@@ -7,26 +7,25 @@
     "doc": "docs"
   },
   "dependencies": {
-    "express": "^4.16.3"
+    "webpack": "^4.16.1"
   },
   "devDependencies": {
-    "bootstrap": "^4.1.1",
+    "bootstrap": "^4.1.2",
+    "express": "^4.16.3",
     "gulp": "^3.9.1",
-    "gulp-sass": "^4.0.1",
-    "run-sequence": "^2.2.1",
-    "sass": "^1.5.1"
+    "sass": "^1.10.0"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/demoncowgirl/project2.git"
+    "url": "git+https://github.com/demoncowgirl/beth-menu.git"
   },
   "author": "Beth Salvatore",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/demoncowgirl/project2/issues"
+    "url": "https://github.com/demoncowgirl/beth-menu/issues"
   },
-  "homepage": "https://github.com/demoncowgirl/project2#readme"
+  "homepage": "https://github.com/demoncowgirl/beth-menu#readme"
 }
