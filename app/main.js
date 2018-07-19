@@ -9,7 +9,10 @@ function chooseImage(foodImages) {
     var randomNum = Math.floor(Math.random() * foodImages.length);
     // randomly selects image from array of images
     document.getElementById("foodPics").src = foodImages[randomNum];
+    // setInterval(function(){document.getElementById("foodPics").src = foodImages[randomNum];},3000);
 }
+
+  // var refreshImage =  setInterval(chooseImage, 3000);
 
   function defaultMenu(){
     document.getElementById("option1").innerHTML = "&loz; Special of the Day: Tipsy tilapia with rancid raisin sauce and turnip tots";
